@@ -1,0 +1,21 @@
+theme = "webstack"
+version = "20.06.09"
+
+# 首页网址
+baseURL = "https://dennischancs.github.io/nav"
+# 标题
+title = "一个导航"
+
+[params]
+    # 副标题
+    subtitle = "自用导航"
+    # 横条logo
+    logo = "https://i.loli.net/2021/09/05/irN54lmxjVJOfkd.png"
+    # logo 图标
+    logoM = "https://i.loli.net/2021/09/05/YJDyhCpwUdkWjRb.png"
+    # css和js文件的cdn
+    cdn = "https://cdn.jsdelivr.net/gh/lmm214/edui@gh-pages"
+    # 开启今日诗词
+    jinrishici = "true"
+    # 开启访问量统计
+    busuanzi = "true"
