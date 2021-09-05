@@ -78,9 +78,11 @@
                 </ul>
             </nav>
 
+            {{if eq $.Site.Params.seniverseweather "true"}}
             <!-- 心知天气 -->
             <div id="tp-weather-widget"></div> <br />
             <!-- 心知天气 -->
+            {{ end }}
 
             {{if eq $.Site.Params.jinrishici "true"}}
             <!-- 今日诗词 -->
@@ -197,6 +199,7 @@
     <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
     {{end}}
 
+    {{if eq $.Site.Params.seniverseweather "true"}}
     <!--心知天气开始-->
     <!--由于默认调用的免费版每分钟20次API调用限制，如有需求可前往知心天气官网购买服务配置-->
     <script>
@@ -214,6 +217,7 @@
       })
     </script>
     <!--心知天气结束-->
+    {{ end }}
     
     <script src="https://cdn.staticfile.org/jquery/1.11.1/jquery.min.js"></script>
     <!-- 锚点平滑移动 -->
