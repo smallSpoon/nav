@@ -10,11 +10,11 @@ title = "一个导航"
     # 副标题
     subtitle = "自用导航"
     # 横条logo
-    logo = "https://i.loli.net/2021/09/05/irN54lmxjVJOfkd.png"
+    logo = "https://cdn.jsdelivr.net/gh/dennischancs/nav@gh-pages/images/avatar.png"
     # logo 图标
-    logoM = "https://i.loli.net/2021/09/05/YJDyhCpwUdkWjRb.png"
+    logoM = "https://cdn.jsdelivr.net/gh/dennischancs/nav@gh-pages/images/favicon.png"
     # css和js文件的cdn
-    cdn = "https://cdn.jsdelivr.net/gh/lmm214/edui@gh-pages"
+    cdn = "https://cdn.jsdelivr.net/gh/dennischancs/nav@gh-pages"
     # 开启今日诗词
     jinrishici = "true"
     # 开启访问量统计
