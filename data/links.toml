@@ -1,5 +1,5 @@
 # 图标使用 icomoon, 可在 https://icomoon.io/#preview-free 查询
-# https://cdn.jsdelivr.net/gh/lmm214/edui@gh-pages/css/icomoon.css 只有有限的定制图标
+# https://cdn.jsdelivr.net/gh/dennischancs/nav@gh-pages/css/icomoon.css 只有有限的定制图标
 
 # ----- 分割符 ----
 [[list]]
@@ -121,7 +121,7 @@ siteName="古诗文网"
 # ----- 分割符 ----
 [[list]]
 tag = 'Coding'
-css = 'icon-pencil'
+css = 'icon-embed2'
 
 [[list.sub]]
 tag = 'Coding'
