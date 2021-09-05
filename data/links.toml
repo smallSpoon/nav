@@ -85,7 +85,7 @@ siteName="ipaddress"
 
 [[list.sub]]
 tag = '语言学习'
-css = 'icon-paper-plane'
+css = 'icon-earth'
 
 [[list.sub.item]]
 description="基于语料库的英语词典"
@@ -125,7 +125,7 @@ css = 'icon-embed2'
 
 [[list.sub]]
 tag = 'Coding'
-css = 'icon-star'
+css = 'icon-embed2'
 
 [[list.sub.item]]
 description="算法刷题"
