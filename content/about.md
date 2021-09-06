@@ -24,6 +24,8 @@ date: 2021-09-05T11:41:32+08:00
 
 * 【自动推送到gitee】 [yanglbme/gitee-pages-action: 🤖 Auto Deploy Gitee Pages With GitHub Actions | 无须人为干预，由 GitHub Actions 自动部署 Gitee Pages](https://github.com/yanglbme/gitee-pages-action)
 
+>  注意：配置好后，gitee pages 2021年9月起新的主页需要实名开通（提交证件由人工审核），然后同步到gitee后手动部署gh-pages分支一次（出现https://xxx.gitee.io链接），最后 `自动github2gitee并部署` 的action才能正常使用。
+
 ### 以下为Gridea实现，还不算很方便
 * **[lmm214/gridea-theme-webstack](https://github.com/lmm214/gridea-theme-webstack)**
 * **[Gridea Theme WebStack | 林小沐](https://i.immmmm.com/gridea-theme-webstack/)**

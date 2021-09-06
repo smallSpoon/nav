@@ -38,7 +38,7 @@ jobs:
         with:
           # 注意替换为你的 GitHub 源仓库地址
           source-repo: git@github.com:dennischancs/nav.git
-          # 注意替换为你的 Gitee 目标仓库地址
+          # 注意替换为你的 Gitee 目标仓库地址，注意“2021年9月起新的gitee pages需要实名开通（提交证件由人工审核）”
           destination-repo: git@gitee.com:dennischan/nav.git
         
       - name: Deploy Gitee Pages
@@ -52,4 +52,4 @@ jobs:
           gitee-repo: dennischan/nav
           # 要部署的分支，默认是 master，若是其他分支，则需要指定（指定的分支必须存在）
           # github默认是main, gitee默认是master(同步一次后,在gitee中,将main设为默认分支,master分支删除)
-          branch: gh-pages # 同步了github仓库, 直接使用编译好的gh-pages分支, 在gitee pages中部署该分支即可
+          branch: gh-pages # 前面完成了github仓库同步, 直接使用github上编译好的gh-pages分支, 在gitee pages中首次手动部署该分支并出现可访问的https://xxx.gitee.io链接，以后便能自动完成。
