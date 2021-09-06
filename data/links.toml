@@ -479,7 +479,7 @@ siteName="全景故宫"
 
 [[list.sub]]
 tag = '图文处理'
-css = 'icon-pencil'
+css = 'icon-file-picture'
 
 [[list.sub.item]]
 description="本地运算的文字识别，完全免费"
@@ -639,7 +639,7 @@ siteName="在线PS"
 
 [[list.sub]]
 tag = '网盘分享'
-css = 'icon-attach'
+css = 'icon-attachment'
 
 [[list.sub.item]]
 description="临时文件分享"
@@ -694,7 +694,7 @@ siteName="酷我"
 
 [[list.sub]]
 tag = '影视媒体'
-css = 'icon-videocam'
+css = 'icon-video-camera'
 [[list.sub.item]]
 description="vip视频在线解析"
 siteLink="http://czjx8.com/"
@@ -728,7 +728,7 @@ siteName="爱奇艺"
 
 [[list.sub]]
 tag = '百科频道'
-css = 'icon-database'
+css = 'icon-wikipedia'
 
 [[list.sub.item]]
 description="自由的百科全书"
@@ -859,7 +859,7 @@ siteName="纸飞机"
 # ----- 分割符 ----
 [[list]]
 tag = '实用软件'
-css = 'icon-desktop'
+css = 'icon-display'
 
 [[list.item]]
 description="一键部署新版本 Office 全家桶，免费！"
@@ -926,7 +926,7 @@ siteName="ScreenToGif"
 # ----- 分割符 ----
 [[list]]
 tag = '线上课程'
-css = 'icon-graduation-cap'
+css = 'icon-spell-check'
 
 [[list.item]]
 description="中国TED演讲"
@@ -1029,7 +1029,7 @@ siteName="数独之光"
 # ----- 分割符 ----
 [[list]]
 tag = "素材资源"
-css = 'icon-inbox'
+css = 'icon-drawer'
 
 [[list.item]]
 description="各种字体的高速免费下载"
