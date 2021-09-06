@@ -4,11 +4,11 @@
 # ----- 分割符 ----
 [[list]]
 tag = '在线工具'
-css = 'icon-globe'
+css = 'icon-sphere'
 
 [[list.sub]]
 tag = '常用工具'
-css = 'icon-star'
+css = 'icon-star-empty'
 
 [[list.sub.item]]
 description="综合性文档笔记、知识库，线上协同办公office"
@@ -74,7 +74,7 @@ siteName="andypope.info"
 
 [[list.sub]]
 tag = '网络工具'
-css = 'icon-paper-plane'
+css = 'icon-safari'
 
 [[list.sub.item]]
 description="本机公网ip地址查询"
@@ -162,11 +162,11 @@ siteName="SQL刷题"
 # ----- 分割符 ----
 [[list]]
 tag = '公考'
-css = 'icon-cloud'
+css = 'icon-library'
 
 [[list.sub]]
 tag = '公考题库'
-css = 'icon-cloud'
+css = 'icon-books'
 
 [[list.sub.item]]
 description="网页版"
@@ -177,7 +177,7 @@ siteName="粉笔题库"
 
 [[list.sub]]
 tag = '政策动向'
-css = 'icon-cloud'
+css = 'icon-stats-dots'
 
 [[list.sub.item]]
 description="官网"
@@ -214,11 +214,11 @@ siteName="深圳市政府"
 # ----- 分割符 ----
 [[list]]
 tag = '其它导航'
-css = 'icon-cloud'
+css = 'icon-compass2'
 
 [[list.sub]]
 tag = '其它导航'
-css = 'icon-cloud'
+css = 'icon-compass2'
 
 [[list.sub.item]]
 description="webstack母站"
@@ -249,7 +249,7 @@ siteName="edui.fun"
 
 [[list.sub]]
 tag = '教学工具'
-css = 'icon-cloud'
+css = 'icon-pencil2'
 
 [[list.sub.item]]
 description="绘本故事在线听"
