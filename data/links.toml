@@ -70,7 +70,11 @@ description="Microsoft Excel 和 PowerPoint 资源站"
 siteLink="https://andypope.info/"
 siteLogo="https://andypope.info/favicon.ico"
 siteName="andypope.info"
-
+[[list.sub.item]]
+description="国家标准委发布——权威、及时、便捷、免费"
+siteLink="http://openstd.samr.gov.cn/bzgk/gb/index"
+siteLogo="http://openstd.samr.gov.cn/bzgk/images/ewm.jpg"
+siteName="国家标准全文公开系统"
 
 [[list.sub]]
 tag = '网络工具'
