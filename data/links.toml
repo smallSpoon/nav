@@ -11,15 +11,10 @@ tag = '常用工具'
 css = 'icon-star-empty'
 
 [[list.sub.item]]
-description="综合性文档笔记、知识库，线上协同办公office"
-siteLink="https://www.yuque.com/denniswiki"
-siteLogo="https://www.yuque.com/favicon.ico"
-siteName="语雀"
-[[list.sub.item]]
-description="综合性文档笔记、知识库，线上协同办公office"
-siteLink="https://docs.qq.com"
-siteLogo="https://docs.qq.com/favicon.ico"
-siteName="腾讯文档"
+description="看板kanban 任务流管理工具"
+siteLink="https://web.banlikanban.com/all"
+siteLogo="https://web.banlikanban.com/favicon.ico"
+siteName="板栗看板"
 [[list.sub.item]]
 description="RoamRearch+Anki 仿人脑结构化思维+卡牌记忆"
 siteLink="https://remnote.io/"
@@ -45,6 +40,16 @@ description="流程图"
 siteLink="http://www.processon.com"
 siteLogo="http://www.processon.com/favicon.ico"
 siteName="processon"
+[[list.sub.item]]
+description="综合性文档笔记、知识库，线上协同办公office"
+siteLink="https://www.yuque.com/denniswiki"
+siteLogo="https://www.yuque.com/favicon.ico"
+siteName="语雀"
+[[list.sub.item]]
+description="综合性文档笔记、知识库，线上协同办公office"
+siteLink="https://docs.qq.com"
+siteLogo="https://docs.qq.com/favicon.ico"
+siteName="腾讯文档"
 [[list.sub.item]]
 description="在线PDF工具集"
 siteLink="https://pdf.io/"
