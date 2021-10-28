@@ -54,6 +54,33 @@ siteName="腾讯文档"
 description="在线PDF工具集"
 siteLink="https://pdf.io/"
 siteLogo="https://www.pmoadvisory.com/wp-content/uploads/2019/03/pdf-logo.png"
+siteName="pdf.io"
+[[list.sub.item]]
+description="在线PDF工具集"
+siteLink="https://www.ilovepdf.com"
+siteLogo="https://www.ilovepdf.com/favicon.ico"
+siteName="ilovepdf"
+[[list.sub.item]]
+description="在线PDF工具集"
+siteLink="https://smallpdf.com/cn"
+siteLogo="https://smallpdf.com/favicon.ico"
+siteName="smallpdf.com"
+[[list.sub.item]]
+description="在线思维导图制作与分享"
+siteLink="https://naotu.baidu.com/"
+siteLogo="https://naotu.baidu.com/favicon.ico"
+siteName="百度脑图"
+[[list.sub.item]]
+description="Microsoft Excel 和 PowerPoint 资源站"
+siteLink="https://andypope.info/"
+siteLogo="https://andypope.info/favicon.ico"
+siteName="andypope.info"
+[[list.sub.item]]
+description="国家标准委发布——权威、及时、便捷、免费"
+siteLink="http://openstd.samr.gov.cn/bzgk/gb/index"
+siteLogo="http://openstd.samr.gov.cn/bzgk/images/ewm.jpg"
+siteName="国家标准全文公开系统"
+
 
 [[list.sub]]
 tag = '政策动向'
@@ -106,32 +133,6 @@ siteLogo="http://www.sz.gov.cn/favicon.ico"
 siteName="深圳市政府"
 
 
-siteName="pdf.io"
-[[list.sub.item]]
-description="在线PDF工具集"
-siteLink="https://www.ilovepdf.com"
-siteLogo="https://www.ilovepdf.com/favicon.ico"
-siteName="ilovepdf"
-[[list.sub.item]]
-description="在线PDF工具集"
-siteLink="https://smallpdf.com/cn"
-siteLogo="https://smallpdf.com/favicon.ico"
-siteName="smallpdf.com"
-[[list.sub.item]]
-description="在线思维导图制作与分享"
-siteLink="https://naotu.baidu.com/"
-siteLogo="https://naotu.baidu.com/favicon.ico"
-siteName="百度脑图"
-[[list.sub.item]]
-description="Microsoft Excel 和 PowerPoint 资源站"
-siteLink="https://andypope.info/"
-siteLogo="https://andypope.info/favicon.ico"
-siteName="andypope.info"
-[[list.sub.item]]
-description="国家标准委发布——权威、及时、便捷、免费"
-siteLink="http://openstd.samr.gov.cn/bzgk/gb/index"
-siteLogo="http://openstd.samr.gov.cn/bzgk/images/ewm.jpg"
-siteName="国家标准全文公开系统"
 
 [[list.sub]]
 tag = '网络工具'
