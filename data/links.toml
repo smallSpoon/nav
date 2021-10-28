@@ -54,6 +54,58 @@ siteName="腾讯文档"
 description="在线PDF工具集"
 siteLink="https://pdf.io/"
 siteLogo="https://www.pmoadvisory.com/wp-content/uploads/2019/03/pdf-logo.png"
+
+[[list.sub]]
+tag = '政策动向'
+css = 'icon-stats-dots'
+
+[[list.sub.item]]
+description="电子报"
+siteLink="http://paper.people.com.cn/rmrb/index.html"
+siteLogo="http://people.com.cn/favicon.ico"
+siteName="人民日报"
+[[list.sub.item]]
+description="官网"
+siteLink="https://www.xuexi.cn/"
+siteLogo="https://www.xuexi.cn/favicon.ico"
+siteName="学习强国"
+[[list.sub.item]]
+description="官网"
+siteLink="https://www.cnki.net/"
+siteLogo="https://www.cnki.net/favicon.ico"
+siteName="中国知网"
+[[list.sub.item]]
+description="官网"
+siteLink="http://www.gov.cn/"
+siteLogo="http://www.gov.cn/favicon.ico"
+siteName="中央人民政府"
+[[list.sub.item]]
+description="官网"
+siteLink="http://www.gd.gov.cn/"
+siteLogo="http://www.gd.gov.cn/favicon.ico"
+siteName="广东省人民政府"
+[[list.sub.item]]
+description="官网"
+siteLink="http://www.jiangsu.gov.cn/"
+siteLogo="http://www.jiangsu.gov.cn/picture/90/1708241445246516392.png"
+siteName="江苏省人民政府"
+[[list.sub.item]]
+description="官网"
+siteLink="http://www.hunan.gov.cn/"
+siteLogo="http://www.hunan.gov.cn/favicon.ico"
+siteName="湖南省人民政府"
+[[list.sub.item]]
+description="官网"
+siteLink="http://www.gz.gov.cn/"
+siteLogo="http://www.gz.gov.cn/favicon.ico"
+siteName="广州市政府"
+[[list.sub.item]]
+description="官网"
+siteLink="http://www.sz.gov.cn/"
+siteLogo="http://www.sz.gov.cn/favicon.ico"
+siteName="深圳市政府"
+
+
 siteName="pdf.io"
 [[list.sub.item]]
 description="在线PDF工具集"
@@ -183,41 +235,6 @@ siteLink="https://www.fenbi.com/spa/tiku/guide/catalog/xingce"
 siteLogo="https://www.fenbi.com/favicon.ico"
 siteName="粉笔题库"
 
-
-[[list.sub]]
-tag = '政策动向'
-css = 'icon-stats-dots'
-
-[[list.sub.item]]
-description="官网"
-siteLink="http://www.gov.cn/"
-siteLogo="http://www.gov.cn/favicon.ico"
-siteName="中央人民政府"
-[[list.sub.item]]
-description="官网"
-siteLink="http://www.gd.gov.cn/"
-siteLogo="http://www.gd.gov.cn/favicon.ico"
-siteName="广东省人民政府"
-[[list.sub.item]]
-description="官网"
-siteLink="http://www.jiangsu.gov.cn/"
-siteLogo="http://www.jiangsu.gov.cn/picture/90/1708241445246516392.png"
-siteName="江苏省人民政府"
-[[list.sub.item]]
-description="官网"
-siteLink="http://www.hunan.gov.cn/"
-siteLogo="http://www.hunan.gov.cn/favicon.ico"
-siteName="湖南省人民政府"
-[[list.sub.item]]
-description="官网"
-siteLink="http://www.gz.gov.cn/"
-siteLogo="http://www.gz.gov.cn/favicon.ico"
-siteName="广州市政府"
-[[list.sub.item]]
-description="官网"
-siteLink="http://www.sz.gov.cn/"
-siteLogo="http://www.sz.gov.cn/favicon.ico"
-siteName="深圳市政府"
 
 
 # ----- 分割符 ----
