@@ -12,9 +12,9 @@ css = 'icon-star-empty'
 
 [[list.sub.item]]
 description="看板kanban 任务流管理工具"
-siteLink="https://web.banlikanban.com/all"
-siteLogo="https://web.banlikanban.com/favicon.ico"
-siteName="板栗看板"
+siteLink="https://trello.com"
+siteLogo="https://trello.com/favicon.ico"
+siteName="Trello"
 [[list.sub.item]]
 description="RoamRearch+Anki 仿人脑结构化思维+卡牌记忆"
 siteLink="https://remnote.io/"
