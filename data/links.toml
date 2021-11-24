@@ -17,13 +17,13 @@ siteLogo="https://trello.com/favicon.ico"
 siteName="Trello"
 [[list.sub.item]]
 description="RoamRearch+Anki 仿人脑结构化思维+卡牌记忆"
-siteLink="https://remnote.io/"
-siteLogo="https://www.remnote.io/favicon.ico"
+siteLink="https://remnote.com/"
+siteLogo="https://www.remnote.com/favicon.ico"
 siteName="RemNote"
 [[list.sub.item]]
 description="RemNote的Beta版，提前体验新功能"
-siteLink="https://beta.remnote.io/"
-siteLogo="https://www.remnote.io/favicon.ico"
+siteLink="https://beta.remnote.com/"
+siteLogo="https://www.remnote.com/favicon.ico"
 siteName="RemNote(Beta)"
 [[list.sub.item]]
 description="大纲笔记+思维导图（功能比RemNote弱太多）"
