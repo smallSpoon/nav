@@ -98,6 +98,11 @@ siteLogo="https://www.xuexi.cn/favicon.ico"
 siteName="学习强国"
 [[list.sub.item]]
 description="官网"
+siteLink="http://www.xinhuawz.com/"
+siteLogo="http://www.xinhuawz.com/images/XHWZ-logo.png"
+siteName="新华文摘"
+[[list.sub.item]]
+description="官网"
 siteLink="https://www.cnki.net/"
 siteLogo="https://www.cnki.net/favicon.ico"
 siteName="中国知网"
