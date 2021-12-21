@@ -92,6 +92,16 @@ siteLink="http://paper.people.com.cn/rmrb/index.html"
 siteLogo="http://people.com.cn/favicon.ico"
 siteName="人民日报"
 [[list.sub.item]]
+description="电子报"
+siteLink="http://opinion.people.com.cn/GB/8213/49160/index.html"
+siteLogo="http://people.com.cn/favicon.ico"
+siteName="人民日报重要评论库"
+[[list.sub.item]]
+description="官网"
+siteLink="https://www.ccps.gov.cn/llwx/"
+siteLogo="https://www.ccps.gov.cn/images/H_xzxy3_13.png"
+siteName="中共中央党校理论文选"
+[[list.sub.item]]
 description="官网"
 siteLink="https://www.xuexi.cn/"
 siteLogo="https://www.xuexi.cn/favicon.ico"
