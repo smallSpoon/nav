@@ -122,6 +122,11 @@ siteLink="http://www.gov.cn/"
 siteLogo="http://www.gov.cn/favicon.ico"
 siteName="中央人民政府"
 [[list.sub.item]]
+description="政务联播"
+siteLink="http://www.gov.cn/xinwen/lianbo/bumen.htm"
+siteLogo="http://www.gov.cn/favicon.ico"
+siteName="中央部门政务联播--新的政策文件"
+[[list.sub.item]]
 description="官网"
 siteLink="http://www.gd.gov.cn/"
 siteLogo="http://www.gd.gov.cn/favicon.ico"
