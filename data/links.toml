@@ -97,6 +97,11 @@ siteLink="http://opinion.people.com.cn/GB/8213/49160/index.html"
 siteLogo="http://people.com.cn/favicon.ico"
 siteName="人民日报重要评论库"
 [[list.sub.item]]
+description="领导人讲话"
+siteLink="http://data.people.com.cn/pd/xxxjprl"
+siteLogo="http://people.com.cn/favicon.ico"
+siteName="习近平系列重要讲话数据库"
+[[list.sub.item]]
 description="官网"
 siteLink="https://www.ccps.gov.cn/llwx/"
 siteLogo="https://www.ccps.gov.cn/images/H_xzxy3_13.png"
