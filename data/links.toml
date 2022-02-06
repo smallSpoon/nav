@@ -90,6 +90,11 @@ description="清华NLP出品的词汇关系词典"
 siteLink="https://wantwords.thunlp.org/home/"
 siteLogo="https://wantwords.thunlp.org/static/image/logo.svg"
 siteName="反向词典"
+[[list.sub.item]]
+description="一键获取公众号历史消息页面链接"
+siteLink="https://www.weixinzg.cn/getHomeUrl.html"
+siteLogo="https://www.weixinzg.cn/favicon.ico"
+siteName="微信公众号文章搜索导出助手"
 
 
 [[list.sub]]
