@@ -11,10 +11,10 @@ tag = '常用工具'
 css = 'icon-star-empty'
 
 [[list.sub.item]]
-description="看板kanban 任务流管理工具"
-siteLink="https://trello.com"
-siteLogo="https://trello.com/favicon.ico"
-siteName="Trello"
+description="企业目标管理与项目协作工具，有看板，用于待办、日历、任务周期管理、记录等。哈哈，OKR用到最后就成了工作计划"
+siteLink="https://dennischan.worktile.com"
+siteLogo="https://worktile.com/favicon.ico"
+siteName="WorkTitle目标·规划·项目·任务·管理工具"
 [[list.sub.item]]
 description="RoamRearch+Anki 仿人脑结构化思维+卡牌记忆"
 siteLink="https://remnote.com/"
