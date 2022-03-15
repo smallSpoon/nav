@@ -12,9 +12,9 @@ css = 'icon-star-empty'
 
 [[list.sub.item]]
 description="企业目标管理与项目协作工具，有看板，用于待办、日历、任务周期管理、记录等。哈哈，OKR用到最后就成了工作计划"
-siteLink="https://dennischan.worktile.com"
-siteLogo="https://worktile.com/favicon.ico"
-siteName="WorkTitle目标·规划·项目·任务·管理工具"
+siteLink="https://khk0exrtf2.feishu.cn/messenger/"
+siteLogo="https://www.feishu.cn/favicon.ico"
+siteName="飞书 目标·规划·项目·任务·管理工具"
 [[list.sub.item]]
 description="RoamRearch+Anki 仿人脑结构化思维+卡牌记忆"
 siteLink="https://remnote.com/"
@@ -95,11 +95,6 @@ description="一键获取公众号历史消息页面链接"
 siteLink="https://www.weixinzg.cn/getHomeUrl.html"
 siteLogo="https://www.weixinzg.cn/favicon.ico"
 siteName="微信公众号文章搜索导出助手"
-[[list.sub.item]]
-description="网盘Index+直链管理工具"
-siteLink="https://alist-pan.up.railway.app/"
-siteLogo="https://alist-pan.up.railway.app/favicon.ico"
-siteName="我的alist-pan"
 
 [[list.sub]]
 tag = '政策动向'
