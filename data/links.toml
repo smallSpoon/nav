@@ -263,6 +263,11 @@ description="SQL刷题"
 siteLink="https://sqlzoo.net/"
 siteLogo="https://sqlzoo.net/favicon.ico"
 siteName="SQL刷题"
+[[list.sub.item]]
+description="正则表达式在线测试"
+siteLink="http://tool.rbtree.cn/"
+siteLogo=""
+siteName="正则表达式在线测试"
 
 
 # ----- 分割符 ----
