@@ -95,6 +95,11 @@ description="一键获取公众号历史消息页面链接"
 siteLink="https://www.weixinzg.cn/getHomeUrl.html"
 siteLogo="https://www.weixinzg.cn/favicon.ico"
 siteName="微信公众号文章搜索导出助手"
+[[list.sub.item]]
+description="科学计算器，绘图计算器, 几何作图, 概率密度分布曲线（仅web端有）"
+siteLink="https://www.geogebra.org/calculator"
+siteLogo="https://www.geogebra.org/favicon.ico"
+siteName="GeoGebra计算器"
 
 [[list.sub]]
 tag = '政策动向'
