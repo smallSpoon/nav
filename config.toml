@@ -14,7 +14,7 @@ title = "一个导航"
     # logo 图标
     logoM = "https://images.weserv.nl/?url=https://raw.githubusercontent.com/dennischancs/nav/gh-pages/images/favicon.png"
     # css和js文件的cdn
-    cdn = "https://images.weserv.nl/?url=https://raw.githubusercontent.com/dennischancs/nav/gh-pages"
+    cdn = "https://cdn.jsdelivr.net/gh/dennischancs/nav@gh-pages"
     # 开启心知天气
     seniverseweather = "true"
     # 开启今日诗词
