@@ -2,7 +2,7 @@ theme = "webstack"
 version = "20.06.09"
 
 # 首页网址
-baseURL = "https://dennischancs.github.io/nav"
+baseURL = "https://dennischan.gitee.io/nav/"
 # 标题
 title = "一个导航"
 
@@ -10,11 +10,11 @@ title = "一个导航"
     # 副标题
     subtitle = "自用导航"
     # 横条logo
-    logo = "https://cdn.jsdelivr.net/gh/dennischancs/nav@gh-pages/images/avatar.png"
+    logo = "https://images.weserv.nl/?url=https://raw.githubusercontent.com/dennischancs/nav/gh-pages/images/avatar.png"
     # logo 图标
-    logoM = "https://cdn.jsdelivr.net/gh/dennischancs/nav@gh-pages/images/favicon.png"
+    logoM = "https://images.weserv.nl/?url=https://raw.githubusercontent.com/dennischancs/nav/gh-pages/images/favicon.png"
     # css和js文件的cdn
-    cdn = "https://cdn.jsdelivr.net/gh/dennischancs/nav@gh-pages"
+    cdn = "https://images.weserv.nl/?url=https://raw.githubusercontent.com/dennischancs/nav/gh-pages"
     # 开启心知天气
     seniverseweather = "true"
     # 开启今日诗词
