@@ -105,6 +105,17 @@ description="科学计算器，绘图计算器, 几何作图, 概率密度分布
 siteLink="https://www.geogebra.org/calculator"
 siteLogo="https://www.geogebra.org/favicon.ico"
 siteName="GeoGebra计算器"
+[[list.sub.item]]
+description="流程图、控制图、甘特图、思维图、鱼骨图等"
+siteLink="https://app.diagrams.net/"
+siteLogo="https://app.diagrams.net/favicon.ico"
+siteName="DrawIO"
+[[list.sub.item]]
+description="按周做计划"
+siteLink="https://weektodo.me/"
+siteLogo="https://weektodo.me/favicon.ico"
+siteName="WeekTodo"
+
 
 [[list.sub]]
 tag = '政策动向'
