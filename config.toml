@@ -2,7 +2,7 @@ theme = "webstack"
 version = "20.06.09"
 
 # 首页网址
-baseURL = "https://dennischan.gitee.io/nav/"
+baseURL = "https://aying.gitee.io/nav/"
 # 标题
 title = "一个导航"
 
